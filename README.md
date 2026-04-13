@@ -21,5 +21,11 @@
    <img width="14" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="55" alt="rust logo"  />
    <img width="14" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="55" alt="rust logo"  />
+   <img width="14" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="55" alt="rust logo"  />
+   <img width="14" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="rust logo"  />
+   <img width="14" />
    
 </div>
