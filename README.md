@@ -9,9 +9,13 @@
    <img width="14" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
    <img width="14" />
+   <img src="https://skillicons.dev/icons?i=rust" height="50" alt="blender logo" />
+   <img width="14" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
    <img width="14" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="55" alt="lua logo"  />
+   <img width="14" />
+   <img src="https://skillicons.dev/icons?i=robloxstudio" height="50" alt="blender logo" />
    <img width="14" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="java logo"  />
    <img width="14" />
@@ -33,7 +37,7 @@
    <img width="14" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
    <img width="14" />
-   
-   
+   <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo" />
+   <img width="14" />
    
 </div>
